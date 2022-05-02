@@ -99,4 +99,3 @@ if start == "y":
     roll_the_dice()
 else:
     print("Goodbye!")
-roll_the_dice()
